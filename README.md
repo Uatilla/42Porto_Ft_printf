@@ -1,15 +1,15 @@
 # 42Porto_Ft_printf
 The Ft_printf is a custom implementation of the C language's printf function, created as a part of the 42 curriculum. The printf function is widely used in C programming for formatted output. This project aims to provide a simplified version of printf with support for a subset of format specifiers and options.
-For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Ft_printf/blob/main/3%20-%20ft_printf_en.subject.pdf).
+For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Ft_printf/blob/main/Ft_printf_en.subject.pdf).
 [![MasterHead](https://art.pixilart.com/sr27dd378bb9361.gif)](https://www.linkedin.com/in/uatilla/)
 
 ## Getting Started
 
-You just need to download or clone this git repository.
+You need to download or clone this git repository.
 `git clone git@github.com:Uatilla/42Porto_Ft_printf.git`
 
 The repository contains all functions source code, and the Makefile that can be used to compile.
-In the repository's root directory runs on terminal the following codes:
+In the repository's root directory runs on the terminal the following codes:
 
 To build the library and link the files: `make`
 
@@ -20,10 +20,10 @@ To compile your code you can do: `cc yourmaincode.c libftprintf.a`
 To clean the .o files: `make clean`
 To clean all .o files and the libftprintf.a: `make fclean`
 
-To clean all .o files, the libftprintf.a and build the library libft.a the Mandatory files .o: `make re`
+To clean all .o files, the libftprintf.a and build the library libftprintf.a and the Mandatory files .o: `make re`
 
 ## Supported format specifiers
-The Printf library supports a subset of format specifiers that are commonly used in the printf function. Here is a list of the supported specifiers:
+The Printf library supports a subset of format specifiers that are commonly used in the Printf function. Here is a list of the supported specifiers:
 
     %c - Character
     %s - String
