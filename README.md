@@ -1,5 +1,5 @@
-# 42Porto_Ft_printf
-The Ft_printf is a custom implementation of the C language's printf function, created as a part of the 42 curriculum. The printf function is widely used in C programming for formatted output. This project aims to provide a simplified version of printf with support for a subset of format specifiers and options.
+# 42_Ft_printf
+The Ft_printf is a custom implementation of the C language's printf function, created as a part of the 42 curriculum. The printf function is widely used in C programming for formatted output. This project aims to provide a simplified version of printf with support for a subset of format specifiers and options. This project emphasizes understanding of variadic functions, parsing, and managing different data types, crucial skills for more advanced programming tasks.
 For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Ft_printf/blob/main/Ft_printf_en.subject.pdf).
 [![MasterHead](https://art.pixilart.com/sr27dd378bb9361.gif)](https://www.linkedin.com/in/uatilla/)
 
